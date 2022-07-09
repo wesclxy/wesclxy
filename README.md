@@ -1,4 +1,4 @@
-## Hello, i'm Wesley Araújo
+## Hello, i'm Wescley Araújo
 
 <div align="center">
   <a href="https://github.com/wescleyaraujo">
