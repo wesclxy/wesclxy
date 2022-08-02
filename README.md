@@ -1,7 +1,7 @@
 ## Hello, i'm Wescley Araújo
 
 
-🐒 Junior em Front-End;
+🐒 Junior em Front-End; <br>
 🐵 Progamador na área a 4 anos.
 
 
