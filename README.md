@@ -1,5 +1,10 @@
 ## Hello, i'm Wescley Araújo
 
+
+🐒 Junior em Front-End;
+🐵 Progamador na área a 4 anos.
+
+
 <div align="center">
   <a href="https://github.com/wescleyzs">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wescleyzs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
