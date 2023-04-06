@@ -6,9 +6,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/pedroadalberto">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedroadalberto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroadalberto&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/wescleyzs">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wescleyzs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wescleyzs&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -22,7 +22,7 @@
   <br><hr>
 
 <div>
-  <a href="https://instagram.com/pedroadalberto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/wescleyzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailtowescleyzs"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
