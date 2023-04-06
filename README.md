@@ -1,8 +1,8 @@
-## Hello, i'm Pedro!
+## Hello, i'm Wescley!
 
 
 🐒 Junior em Front-End; <br>
-🐵 Progamador na área a 4 anos.
+🐵 Progamador na área a 5 anos.
 
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 <div>
   <a href="https://instagram.com/pedroadalberto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailtopedroadalberto"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailtowescleyzs"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
