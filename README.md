@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/Wescleyzz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wescleyzs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wescleyzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wescleyzz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
