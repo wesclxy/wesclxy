@@ -1,9 +1,9 @@
 ## Hello, i'm Wescley!
 
 
-🐒 Pleno em Front-End; <br>
-🐒 Junior em Back-End; <br>
-🐵 Progamador na área a 5 anos.
+🐒 Pleno Front-End; <br>
+🐒 Pleno Back-End; <br>
+🐵 Progamador na área a 6 anos.
 
 
 <div align="center">
