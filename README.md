@@ -25,11 +25,12 @@
  </div>
  
  ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JS-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=Js&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=html&logoColor=purple&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html&logoColor=purple&labelColor=0D1117)&nbsp;
 ![python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=purple&labelColor=0D1117)&nbsp;
+![java](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=Java&logoColor=purple&labelColor=0D1117)&nbsp;
 
 
 
