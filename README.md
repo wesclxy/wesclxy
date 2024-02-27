@@ -31,8 +31,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=FF4500&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117)&nbsp;
-![WINDOWS](https://img.shields.io/badge/-WINDOWS-0D1117?style=for-the-badge&logo=WINDOWS&logoColor=FF4500&labelColor=0D1117)&nbsp;
-![MacOS](https://img.shields.io/badge/-![MacOS-0D1117?style=for-the-badge&logo=![MacOS&labelColor=0D1117)&nbsp;
+![WINDOWS](https://img.shields.io/badge/-WINDOWS-0D1117?style=for-the-badge&logo=WINDOWS&labelColor=0D1117)&nbsp;
+![MacOS](https://img.shields.io/badge/-MacOS-0D1117?style=for-the-badge&logo=MacOS&labelColor=0D1117)&nbsp;
 
 
 
