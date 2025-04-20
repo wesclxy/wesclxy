@@ -24,7 +24,6 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117)&nbsp;
 ![WINDOWS](https://img.shields.io/badge/-WINDOWS-0D1117?style=for-the-badge&logo=WINDOWS&labelColor=0D1117)&nbsp;
-![MacOS](https://img.shields.io/badge/-MacOS-0D1117?style=for-the-badge&logo=MacOS&labelColor=0D1117)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ununtu-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
 
